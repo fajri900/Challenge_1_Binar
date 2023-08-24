@@ -1,2 +1,2 @@
 # Challenge_1_Binar
-membuat desain web
+Membuat desain web dan Responsive
