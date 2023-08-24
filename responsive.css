@@ -1,0 +1,488 @@
+@media only screen and (max-width: 922px) {
+  .img-hero {
+    margin-top: -290px;
+    width: 900px;
+  }
+  .hero-tagline {
+    margin-top: 30px;
+  }
+
+  .hero-tagline h1 {
+    width: 828px;
+    height: 216px;
+  }
+  .hero-tagline p {
+    margin-top: -100px;
+    width: 428px;
+    height: 60px;
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  .button-hero {
+    margin-top: 30px;
+  }
+  #hero {
+    height: 600px;
+  }
+  .img-service {
+    width: 400px;
+    margin-right: 150px;
+    margin-top: 300px;
+  }
+
+  .service-tagline h1 {
+    margin-top: auto;
+    margin-left: 100px;
+    text-align: start;
+  }
+  .service-tagline p {
+    width: 400x;
+    text-align: start;
+    margin-left: 100px;
+  }
+  .service-tagline ul {
+    margin-top: 35px;
+    margin-left: 100px;
+  }
+  .why-us-tagline h2 {
+    text-align: center;
+  }
+  .why-us-tagline p {
+    text-align: center;
+    margin: auto;
+  }
+  .card-whyus {
+    width: 350px;
+    margin: auto;
+  }
+  .card-whyus p {
+    width: 298px;
+    height: 40px;
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  #banner {
+    width: 500px;
+    height: 400px;
+  }
+  .banner-tagline h2 {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .banner-tagline p {
+    width: auto;
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .FAQ-tagline h2,
+  p {
+    margin: auto;
+    margin-left: 170px;
+    margin-top: 7px;
+    text-align: center;
+  }
+  .form-FAQ,
+  .form-FAQ1,
+  .form-FAQ2,
+  .form-FAQ3,
+  .form-FAQ4 {
+    margin: auto;
+    margin-top: 16px;
+    width: 428px;
+    margin-left: 170px;
+  }
+
+  #akhir-foter p {
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  #carouselExampleControls {
+    width: 650px;
+    height: 392px;
+    margin-top: 15px;
+  }
+  .img-testi {
+    margin: auto;
+    margin-top: 60px;
+  }
+  .img-bintang img {
+    margin-top: 120px;
+    margin-left: 78px;
+  }
+  .img-bintang p {
+    width: 364px;
+    height: 120px;
+    text-align: start;
+    margin-left: -50px;
+  }
+
+  .testi-tagline p {
+    text-align: center;
+    margin-left: -5px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .img-hero {
+    margin-top: -290px;
+    width: 750px;
+  }
+  .hero-tagline {
+    margin-top: 30px;
+  }
+
+  .hero-tagline h1 {
+    width: 528px;
+    height: 216px;
+  }
+  .hero-tagline p {
+    margin-top: -100px;
+    width: 428px;
+    height: 60px;
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  .button-hero {
+    margin-top: 30px;
+  }
+  #hero {
+    height: 600px;
+  }
+  .img-service {
+    width: 400px;
+    margin-right: 150px;
+    margin-top: 200px;
+  }
+
+  .service-tagline h1 {
+    margin-top: auto;
+    margin-left: 100px;
+    text-align: start;
+  }
+  .service-tagline p {
+    width: 400x;
+    text-align: start;
+    margin-left: 100px;
+  }
+  .service-tagline ul {
+    margin-top: 35px;
+    margin-left: 100px;
+  }
+  .why-us-tagline h2 {
+    text-align: center;
+  }
+  .why-us-tagline p {
+    text-align: center;
+    margin: auto;
+  }
+  .card-whyus {
+    width: 350px;
+    margin: auto;
+  }
+  .card-whyus p {
+    width: 290px;
+    height: 40px;
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  #banner {
+    width: 500px;
+    height: 400px;
+  }
+  .banner-tagline h2 {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .banner-tagline p {
+    width: auto;
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .FAQ-tagline h2,
+  p {
+    margin: auto;
+    margin-left: 170px;
+    margin-top: 7px;
+    text-align: center;
+  }
+  .form-FAQ,
+  .form-FAQ1,
+  .form-FAQ2,
+  .form-FAQ3,
+  .form-FAQ4 {
+    margin: auto;
+    margin-top: 16px;
+    width: 428px;
+    margin-left: 170px;
+  }
+
+  #akhir-foter p {
+    text-align: left;
+    margin-left: 0px;
+  }
+
+  #carouselExampleControls {
+    width: 650px;
+    height: 392px;
+    margin-top: 15px;
+  }
+  .img-testi {
+    margin: auto;
+    margin-top: 60px;
+  }
+  .img-bintang img {
+    margin-top: 120px;
+    margin-left: 78px;
+  }
+  .img-bintang p {
+    width: 364px;
+    height: 120px;
+    text-align: start;
+    margin-left: -50px;
+  }
+
+  .testi-tagline p {
+    text-align: center;
+    margin-left: -5px;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .img-hero {
+    margin-top: -150px;
+    width: 550px;
+  }
+  .hero-tagline {
+    margin-top: 30px;
+  }
+
+  .hero-tagline h1 {
+    width: 328px;
+    height: 216px;
+  }
+  .hero-tagline p {
+    width: 328px;
+    height: 60px;
+    text-align: left;
+    margin-top: 10px;
+  }
+
+  .button-hero {
+    margin-top: 30px;
+  }
+  #hero {
+    height: 600px;
+  }
+  .img-service {
+    width: 400px;
+    margin-right: 80px;
+    margin-top: 200px;
+  }
+
+  .service-tagline h1 {
+    margin-top: auto;
+    margin-left: 20px;
+  }
+  .service-tagline p {
+    width: 380px;
+    margin-left: 20px;
+  }
+  .service-tagline ul {
+    margin-top: 35px;
+    margin-left: 20px;
+  }
+  .why-us-tagline h2 {
+    text-align: center;
+  }
+  .why-us-tagline p {
+    text-align: center;
+    margin: auto;
+  }
+  .card-whyus {
+    width: 328px;
+    margin: auto;
+  }
+  .card-whyus p {
+    width: 280px;
+    height: 40px;
+    text-align: left;
+  }
+
+  #banner {
+    width: 400px;
+    height: 400px;
+  }
+  .banner-tagline h2 {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .banner-tagline p {
+    width: auto;
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .FAQ-tagline h2,
+  p {
+    margin: auto;
+    margin-top: 7px;
+    text-align: center;
+  }
+  .form-FAQ,
+  .form-FAQ1,
+  .form-FAQ2,
+  .form-FAQ3,
+  .form-FAQ4 {
+    margin: auto;
+    margin-top: 16px;
+    width: 428px;
+  }
+
+  #footer-section p {
+    text-align: left;
+  }
+
+  #carouselExampleControls {
+    width: 450px;
+    height: 392px;
+    margin-top: 15px;
+  }
+  .img-testi {
+    margin: auto;
+    margin-top: 60px;
+  }
+  .img-bintang img {
+    margin-top: 120px;
+    margin-left: -100px;
+  }
+  .img-bintang p {
+    width: 264px;
+    height: 120px;
+    text-align: start;
+    margin-left: -180px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .img-hero {
+    margin-top: -150px;
+    width: 480px;
+  }
+  .hero-tagline {
+    margin-top: 30px;
+  }
+
+  .hero-tagline h1 {
+    width: 328px;
+    height: 216px;
+  }
+  .hero-tagline p {
+    width: 328px;
+    height: 60px;
+    text-align: left;
+    margin-top: 10px;
+  }
+
+  .button-hero {
+    margin-top: 30px;
+  }
+  #hero {
+    height: 600px;
+  }
+  .img-service {
+    width: 300px;
+    margin-right: 90px;
+    margin-top: 200px;
+  }
+
+  .service-tagline h1 {
+    margin-top: auto;
+    margin-left: 20px;
+  }
+  .service-tagline p {
+    width: 328px;
+    margin-left: 20px;
+  }
+  .service-tagline ul {
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  .why-us-tagline h2 {
+    text-align: center;
+  }
+  .why-us-tagline p {
+    text-align: center;
+    margin: auto;
+  }
+  .card-whyus {
+    width: 328px;
+    margin: auto;
+  }
+  .card-whyus p {
+    width: 280px;
+    height: 40px;
+    text-align: left;
+  }
+
+  #banner {
+    width: 400px;
+    height: 400px;
+  }
+  .banner-tagline h2 {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .banner-tagline p {
+    width: auto;
+    margin-top: 80px;
+    text-align: center;
+  }
+
+  .FAQ-tagline h2,
+  p {
+    margin: auto;
+    margin-top: 7px;
+    text-align: center;
+  }
+  .form-FAQ,
+  .form-FAQ1,
+  .form-FAQ2,
+  .form-FAQ3,
+  .form-FAQ4 {
+    margin: auto;
+    margin-top: 16px;
+    width: 428px;
+  }
+
+  #akhir-foter p {
+    text-align: left;
+  }
+
+  #carouselExampleControls {
+    width: 450px;
+    height: 392px;
+    margin-top: 15px;
+  }
+  .img-testi {
+    margin: auto;
+    margin-top: 60px;
+  }
+  .img-bintang img {
+    margin-top: 120px;
+    margin-left: -100px;
+  }
+  .img-bintang p {
+    width: 264px;
+    height: 120px;
+    text-align: start;
+    margin-left: -180px;
+  }
+}
